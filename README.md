@@ -63,13 +63,13 @@ Analysis Type: Sales & Business Analysis
 
 This project demonstrates how SQL analysis can support business decisions such as:
 
-Identifying high-performing pizza products
-Understanding customer ordering patterns
-Analyzing revenue contribution
-Comparing product categories
-Identifying peak ordering hours
-Monitoring revenue growth over time
-Finding top-performing products within categories
+Identifying high-performing pizza products,
+Understanding customer ordering patterns,
+Analyzing revenue contribution,
+Comparing product categories,
+Identifying peak ordering hours,
+Monitoring revenue growth over time,
+Finding top-performing products within categories,
 
 🚀 Skills Demonstrated
 
